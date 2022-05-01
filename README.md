@@ -11,8 +11,8 @@ Next, simply open the "dataprocessing.m" file, and run it in MATLAB.
 
 Note, the following are required to run the code:
 
-MATLAB R2021a or later
+- MATLAB R2021a or later
 
-Deep Learning Toolbox
+- Deep Learning Toolbox
 
-Text Analytics Toolbox
+- Text Analytics Toolbox
