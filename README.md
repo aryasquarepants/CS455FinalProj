@@ -10,6 +10,9 @@ In order to run the code, first clone this repository to your local computer.
 Next, simply open the "dataprocessing.m" file, and run it in MATLAB.
 
 Note, the following are required to run the code:
+
 MATLAB R2021a or later
+
 Deep Learning Toolbox
+
 Text Analytics Toolbox
